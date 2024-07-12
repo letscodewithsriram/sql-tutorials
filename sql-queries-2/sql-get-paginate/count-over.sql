@@ -14,3 +14,4 @@ SELECT id, name, position, start_date, end_date, department_id,
     ORDER BY id 
     OFFSET 1 
     LIMIT 4;
+
